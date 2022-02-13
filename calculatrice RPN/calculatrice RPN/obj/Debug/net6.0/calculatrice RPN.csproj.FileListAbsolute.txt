@@ -1,0 +1,27 @@
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\appsettings.Development.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\appsettings.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\calculatrice RPN.exe
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\calculatrice RPN.deps.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\calculatrice RPN.runtimeconfig.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\calculatrice RPN.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\ref\calculatrice RPN.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\calculatrice RPN.pdb
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.csproj.AssemblyReference.cache
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.GeneratedMSBuildEditorConfig.editorconfig
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.AssemblyInfoInputs.cache
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.AssemblyInfo.cs
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.csproj.CoreCompileInputs.cache
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.MvcApplicationPartsAssemblyInfo.cs
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.MvcApplicationPartsAssemblyInfo.cache
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\staticwebassets.build.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\staticwebassets.development.json
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\scopedcss\bundle\calculatrice RPN.styles.css
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.csproj.CopyComplete
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\ref\calculatrice RPN.dll
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.pdb
+F:\DropProjet\calculatrice RPN\calculatrice RPN\obj\Debug\net6.0\calculatrice RPN.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pFkpraZ2GRKuhFvKjn092g1xaZ1c6lDkJt96+4474ClYR+JqiE/hetZpP0c7c7Dol2c8GjjE9y+hMt4Qpt+3CQ==",
+  "success": true,
+  "projectFilePath": "F:\\DropProjet\\calculatrice RPN\\calculatrice RPN\\calculatrice RPN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altah\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\altah\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\altah\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\altah\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\altah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\altah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
